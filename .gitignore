@@ -8,8 +8,7 @@
 !src/
 !sv/
 !final_report.pdf
-
 !uvm/
-!.gitignore
+#!.gitignore
 !README.md
 
