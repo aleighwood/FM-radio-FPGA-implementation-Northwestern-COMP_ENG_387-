@@ -3,13 +3,13 @@
 /*
 
 # Then include only what we want from submission folder
-!team_11_final_project_submission/
-team_11_final_project_submission/*
-!team_11_final_project_submission/sim/
-!team_11_final_project_submission/src/
-!team_11_final_project_submission/sv/
-!team_11_final_project_submission/test_files/
-!team_11_final_project_submission/uvm/
+
+!sim/
+!src/
+!sv/
+!final_report.pdf
+
+!uvm/
 !.gitignore
 !README.md
 
